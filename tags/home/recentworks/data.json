@@ -1,0 +1,170 @@
+[
+    {
+        "id": 0,
+        "name": "History Matching for climate model tuning : experiments on the Lorenz-96",
+        "image": "images/content/home/recentworks/HM.png",
+        "url": "home/recentworks/rw_0/",
+        "items": [
+            {
+                "name": "Climate Science",
+                "url": "#"
+            },
+            {
+                "name": "Climate Model Calibration",
+                "url": "#"
+            },
+            {
+                "name": "Inverse Problem Solving",
+                "url": "#"
+            },
+            {
+                "name": "Bayesian Optimisation",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Robust Machine Learning - study of the Median of Means estimator (Lecue & Lerasle, 2017)",
+        "image": "images/SL_projet_2.png",
+        "url": "home/recentworks/rw_1/",
+        "items": [
+            {
+                "name": "Robust Estimation",
+                "url": ""
+            },
+            {
+                "name": "Machine Learning",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Nonparametric density and survival function estimation - multiplicative censoring model (Comte & al, 2016)",
+        "image": "images/ENP_projet.png",
+        "url": "home/recentworks/rw_2/",
+        "items": [
+            {
+                "name": "Non-parametric Estimation",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Statistical learning for the detection of deficient MMR crypts to aid in the diagnosis of Lynch disease",
+        "image": "images/Lynch_projet_5.png",
+        "url": "home/recentworks/rw_3/",
+        "items": [
+            {
+                "name": "Computer Vision",
+                "url": ""
+            },
+            {
+                "name": "Deep Learning",
+                "url": ""
+            },
+            {
+                "name": "One-Shot Learning",
+                "url": ""
+            },
+            {
+                "name": "Machine Learning for Medical Imaging",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Online Convex Optimisation - Study of the Dual Averaging Methods (Xiao, 2009)",
+        "image": "images/OCO_projet_3.png",
+        "url": "home/recentworks/rw_4/",
+        "items": [
+            {
+                "name": "Machine Learning",
+                "url": ""
+            },
+            {
+                "name": "Online Optimimisation",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "High-Dimensional Regression - study of the debiased LASSO estimator (Javanmard  &  Montanari, 2013)",
+        "image": "images/MLGD_projet.png",
+        "url": "home/recentworks/rw_5/",
+        "items": [
+            {
+                "name": "High-Dimensional Data",
+                "url": ""
+            },
+            {
+                "name": "LASSO Estimator",
+                "url": ""
+            },
+            {
+                "name": "Multivariate Hypothesis Testing",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Transfer learning with random forest - A static hand gesture classification study",
+        "image": "images/randomForest.jpg",
+        "url": "home/recentworks/rw_6/",
+        "items": [
+            {
+                "name": "Non-parametric Estimation",
+                "url": ""
+            },
+            {
+                "name": "Statistical Learning",
+                "url": "#"
+            },
+            {
+                "name": "Transfer Learning",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Data Challenge - Land cover predictive modeling from satellite images",
+        "image": "images/dataChallenge.jpg",
+        "url": "home/recentworks/rw_7/",
+        "items": [
+            {
+                "name": "Machine Learning",
+                "url": "#"
+            },
+            {
+                "name": "Computer Vision",
+                "url": "#"
+            },
+            {
+                "name": "Deep Learning",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "A Random Sampling O(n) Force-calculation Algorithm for Graph Layouts",
+        "image": "images/graphParis2.png",
+        "url": "home/recentworks/rw_8/",
+        "items": [
+            {
+                "name": "Graph Theory",
+                "url": "#"
+            },
+            {
+                "name": "Scientific Visualisation",
+                "url": "#"
+            }
+        ]
+    }
+]

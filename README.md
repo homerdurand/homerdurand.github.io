@@ -1,1 +1,0 @@
-# homerdurand.github.io

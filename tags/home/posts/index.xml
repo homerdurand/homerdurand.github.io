@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Projects on Homer Durand</title>
+    <link>https://github.com/homerdurand/homer.durand.github.io/home/posts/</link>
+    <description>Recent content in Personal Projects on Homer Durand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://github.com/homerdurand/homer.durand.github.io/home/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Book of Why: The New Science of Cause and Effect</title>
+      <link>https://github.com/homerdurand/homer.durand.github.io/home/posts/pproject4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/homerdurand/homer.durand.github.io/home/posts/pproject4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Study of the HANDY models</title>
+      <link>https://github.com/homerdurand/homer.durand.github.io/home/posts/pproject1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/homerdurand/homer.durand.github.io/home/posts/pproject1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Language model for music generation</title>
+      <link>https://github.com/homerdurand/homer.durand.github.io/home/posts/pproject3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/homerdurand/homer.durand.github.io/home/posts/pproject3/</guid>
+      <description>&lt;p&gt;The objective of this project is to determine a set of
+statistical methods for generating musical sequences. Because of the proximity of language and music, the majority of the methods used are borrowed from Natural Language Processing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Study of the World3 model</title>
+      <link>https://github.com/homerdurand/homer.durand.github.io/home/posts/pproject2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/homerdurand/homer.durand.github.io/home/posts/pproject2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
