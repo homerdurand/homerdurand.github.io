@@ -3,7 +3,7 @@
         "id": 0,
         "name": "History Matching for climate model tuning : experiments on the Lorenz-96",
         "image": "images/content/home/recentworks/HM.png",
-        "url": "home/recentworks/rw_0/",
+        "url": "home/recentworks/reports/LOCEAN_report.pdf",
         "items": [
             {
                 "name": "Climate Science",
@@ -27,7 +27,7 @@
         "id": 1,
         "name": "Robust Machine Learning - study of the Median of Means estimator (Lecue & Lerasle, 2017)",
         "image": "images/SL_projet_2.png",
-        "url": "home/recentworks/rw_1/",
+        "url": "home/recentworks/reports/Statistical_Learning_Report.pdf",
         "items": [
             {
                 "name": "Robust Estimation",
@@ -43,7 +43,7 @@
         "id": 2,
         "name": "Nonparametric density and survival function estimation - multiplicative censoring model (Comte & al, 2016)",
         "image": "images/ENP_projet.png",
-        "url": "home/recentworks/rw_2/",
+        "url": "home/recentworks/reports/Compte_Rendu_ENP.pdf",
         "items": [
             {
                 "name": "Non-parametric Estimation",
@@ -55,7 +55,7 @@
         "id": 3,
         "name": "Statistical learning for the detection of deficient MMR crypts to aid in the diagnosis of Lynch disease",
         "image": "images/Lynch_projet_5.png",
-        "url": "home/recentworks/rw_3/",
+        "url": "home/recentworks/reports/Projet_MDL.pdf",
         "items": [
             {
                 "name": "Computer Vision",
@@ -79,7 +79,7 @@
         "id": 4,
         "name": "Online Convex Optimisation - Study of the Dual Averaging Methods (Xiao, 2009)",
         "image": "images/OCO_projet_3.png",
-        "url": "home/recentworks/rw_4/",
+        "url": "home/recentworks/reports/OCO_Report.pdf",
         "items": [
             {
                 "name": "Machine Learning",
@@ -95,7 +95,7 @@
         "id": 5,
         "name": "High-Dimensional Regression - study of the debiased LASSO estimator (Javanmard  &  Montanari, 2013)",
         "image": "images/MLGD_projet.png",
-        "url": "home/recentworks/rw_5/",
+        "url": "home/recentworks/reports/MLGD_report.pdf",
         "items": [
             {
                 "name": "High-Dimensional Data",
@@ -115,7 +115,7 @@
         "id": 6,
         "name": "Transfer learning with random forest - A static hand gesture classification study",
         "image": "images/randomForest.jpg",
-        "url": "home/recentworks/rw_6/",
+        "url": "home/recentworks/reports/Projet_RF.pdf",
         "items": [
             {
                 "name": "Non-parametric Estimation",
@@ -135,7 +135,7 @@
         "id": 7,
         "name": "Data Challenge - Land cover predictive modeling from satellite images",
         "image": "images/dataChallenge.jpg",
-        "url": "home/recentworks/rw_7/",
+        "url": "home/recentworks/reports/Challenge_apprentissage_automatique.pdf",
         "items": [
             {
                 "name": "Machine Learning",
@@ -155,7 +155,7 @@
         "id": 8,
         "name": "A Random Sampling O(n) Force-calculation Algorithm for Graph Layouts",
         "image": "images/graphParis2.png",
-        "url": "home/recentworks/rw_8/",
+        "url": "home/recentworks/reports/Rapport_visualisation.pdf",
         "items": [
             {
                 "name": "Graph Theory",
