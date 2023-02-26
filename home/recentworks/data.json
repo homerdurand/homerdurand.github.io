@@ -1,6 +1,26 @@
 [
-    {
+        {
         "id": 0,
+        "name": "Main Confounder Analysis for Teleconnection Patterns Analysis",
+        "image": "images/MCA.jpg",
+        "url": "home/recentworks/reports/Master_thesis_IPL.pdf",
+        "items": [
+            {
+                "name": "Causal Representation Learning",
+                "url": ""
+            },
+            {
+                "name": "Teleconnection Patterns Analysis",
+                "url": "#"
+            },
+            {
+                "name": "Cause-Effect Estimation",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 1,
         "name": "History Matching for climate model tuning : experiments on the Lorenz-96",
         "image": "images/content/home/recentworks/HM.png",
         "url": "home/recentworks/reports/LOCEAN_report.pdf",
@@ -24,7 +44,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Robust Machine Learning - study of the Median of Means estimator (Lecue & Lerasle, 2017)",
         "image": "images/SL_projet_2.png",
         "url": "home/recentworks/reports/Statistical_Learning_Report.pdf",
@@ -40,7 +60,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Nonparametric density and survival function estimation - multiplicative censoring model (Comte & al, 2016)",
         "image": "images/ENP_projet.png",
         "url": "home/recentworks/reports/Compte_Rendu_ENP.pdf",
@@ -52,7 +72,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Statistical learning for the detection of deficient MMR crypts to aid in the diagnosis of Lynch disease",
         "image": "images/Lynch_projet_5.png",
         "url": "home/recentworks/reports/Projet_MDL.pdf",
@@ -76,7 +96,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Online Convex Optimisation - Study of the Dual Averaging Methods (Xiao, 2009)",
         "image": "images/OCO_projet_3.png",
         "url": "home/recentworks/reports/OCO_Report.pdf",
@@ -92,7 +112,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "High-Dimensional Regression - study of the debiased LASSO estimator (Javanmard  &  Montanari, 2013)",
         "image": "images/MLGD_projet.png",
         "url": "home/recentworks/reports/MLGD_report.pdf",
@@ -108,26 +128,6 @@
             {
                 "name": "Multivariate Hypothesis Testing",
                 "url": ""
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Transfer learning with random forest - A static hand gesture classification study",
-        "image": "images/randomForest.jpg",
-        "url": "home/recentworks/reports/Projet_RF.pdf",
-        "items": [
-            {
-                "name": "Non-parametric Estimation",
-                "url": ""
-            },
-            {
-                "name": "Statistical Learning",
-                "url": "#"
-            },
-            {
-                "name": "Transfer Learning",
-                "url": "#"
             }
         ]
     },
