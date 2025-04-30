@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Homer Durand</title>
+    <link>http://localhost:2022/courses/</link>
+    <description>Recent content in Courses on Homer Durand</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:2022/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 - An introduction to objective bayesianism with climate science examples</title>
+      <link>http://localhost:2022/courses/intro_objective_bayes/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2022/courses/intro_objective_bayes/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 - An introduction to ensemble forecasting</title>
+      <link>http://localhost:2022/courses/intro_ensemble_forecasting/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2022/courses/intro_ensemble_forecasting/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;&#xA;&lt;!-- &#xA;## Introduction&#xA;&#xA;  * History of ensemble forecasting (Roots of Ensemble Forecasting, J. M. Lewis 2005)&#xA;&#xA;&#xA;## Chaos theory&#xA;&#xA;Lyapunov exponent $\lambda$ measure the sensitivity to initial conditions&#xA;&#xA;$$&#xA;| \delta Z(t) | = e^{\lambda t} |\delta Z_0 |.&#xA;$$&#xA;&#xA;There could be multiple lyapunov exponent and we usually refer to the largest one, called MLE.&#xA;&#xA;* Periodic behavior of chaotic system must be repelling not attracting&#xA;* Topological mixing: any given regions will eventually overlapp with any other given region&#xA;## Types of uncertainties&#xA;&#xA;## Ensemble forecasting&#xA;&#xA;Retrospective&#xA;&#xA;## From weather to climate&#xA;&#xA;## Counterfactuals&#xA;&#xA;## Predictability&#xA;&#xA;**Palmer 2006:**&#xA;* We should think of weather and climate prediction in terms of equations whose basic prognostic variables are probability densities $\rho(X, t)$ where $X$ denotes some climatic variables and $t$ denotes time.&#xA;* $\rho(X, t)dV$ denotes the probability that at time $t$, $X$ true value lies in some volume $dV$.&#xA;* **Fokker–Planck equation:**  partial differential equation that describes the time evolution of the probability density function of the velocity of a particle under the influence of drag forces and random forces, as in Brownian motion &#xA;* **Liouville equation:**  describes the time evolution of the phase space distribution function (fundamental equation of statistical mechanics).&#xA;&#xA;* Fokker-Planck and Liouville equations describe the evolution of the climate system and are practically solved using ensemble techniques.&#xA;* Prior estimate $\rho_C(X)$ climatological density of $X$.&#xA;Weather or not $X$ is predictable depends wether $\rho(X, t)$ is sufficiently different from $\rho_C(X)$, i.e. it is predictable if they are different&#xA;&#xA;&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;    &#xA;    &lt;img src=&#34;../Images/forecast_distributions_palmer_2006.png&#34; alt=&#34;Image&#34; style=&#34;width: 300px; height: auto; margin-right: 40px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;    If the distributions are very different the weather forecast could be used by decision-makers. The way to compute this divergence is not clear and would depend on the specific decision making. Where one is mainly interested about extreme events then measuring the distance between the probabilities after a critical point might be prefered to an overall distance measure. This might for example be the case in figure 1.1.&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>04 - An introduction to the validation of probabilistic forecasting</title>
+      <link>http://localhost:2022/courses/intro_validation_probabilistic_forecasting/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2022/courses/intro_validation_probabilistic_forecasting/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 - An introduction to uncertainty quantification of physical simulation</title>
+      <link>http://localhost:2022/courses/intro_bayesian_uq_of_computer_experiments/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/courses/intro_bayesian_uq_of_computer_experiments/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>05 - An introduction to detection and attribution of climate change</title>
+      <link>http://localhost:2022/courses/intro_detection_and_attribution/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/courses/intro_detection_and_attribution/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>06 - An introduction to extreme events attribution</title>
+      <link>http://localhost:2022/courses/intro_extreme_events_attribution/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/courses/intro_extreme_events_attribution/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

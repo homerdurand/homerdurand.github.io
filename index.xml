@@ -2,118 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homer Durand</title>
-    <link>https://homerdurand.github.io/</link>
+    <link>http://localhost:2022/</link>
     <description>Recent content on Homer Durand</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://homerdurand.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Curiculum Vitae</title>
-      <link>https://homerdurand.github.io/home/downloads/download1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/downloads/download1/</guid>
-      <description>Having completed my engineering degree in applied mathematics at Polytech Sorbonne, I am now specializing in Statistics at Sorbonne University in order to move towards an academic thesis&amp;hellip;</description>
+      <title>01 - An introduction to objective bayesianism with climate science examples</title>
+      <link>http://localhost:2022/courses/intro_objective_bayes/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2022/courses/intro_objective_bayes/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>The Book of Why: The New Science of Cause and Effect</title>
-      <link>https://homerdurand.github.io/home/posts/pproject4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/posts/pproject4/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit&lt;/p&gt;</description>
+      <title>03 - An introduction to ensemble forecasting</title>
+      <link>http://localhost:2022/courses/intro_ensemble_forecasting/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2022/courses/intro_ensemble_forecasting/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;&#xA;&lt;!-- &#xA;## Introduction&#xA;&#xA;  * History of ensemble forecasting (Roots of Ensemble Forecasting, J. M. Lewis 2005)&#xA;&#xA;&#xA;## Chaos theory&#xA;&#xA;Lyapunov exponent $\lambda$ measure the sensitivity to initial conditions&#xA;&#xA;$$&#xA;| \delta Z(t) | = e^{\lambda t} |\delta Z_0 |.&#xA;$$&#xA;&#xA;There could be multiple lyapunov exponent and we usually refer to the largest one, called MLE.&#xA;&#xA;* Periodic behavior of chaotic system must be repelling not attracting&#xA;* Topological mixing: any given regions will eventually overlapp with any other given region&#xA;## Types of uncertainties&#xA;&#xA;## Ensemble forecasting&#xA;&#xA;Retrospective&#xA;&#xA;## From weather to climate&#xA;&#xA;## Counterfactuals&#xA;&#xA;## Predictability&#xA;&#xA;**Palmer 2006:**&#xA;* We should think of weather and climate prediction in terms of equations whose basic prognostic variables are probability densities $\rho(X, t)$ where $X$ denotes some climatic variables and $t$ denotes time.&#xA;* $\rho(X, t)dV$ denotes the probability that at time $t$, $X$ true value lies in some volume $dV$.&#xA;* **Fokker–Planck equation:**  partial differential equation that describes the time evolution of the probability density function of the velocity of a particle under the influence of drag forces and random forces, as in Brownian motion &#xA;* **Liouville equation:**  describes the time evolution of the phase space distribution function (fundamental equation of statistical mechanics).&#xA;&#xA;* Fokker-Planck and Liouville equations describe the evolution of the climate system and are practically solved using ensemble techniques.&#xA;* Prior estimate $\rho_C(X)$ climatological density of $X$.&#xA;Weather or not $X$ is predictable depends wether $\rho(X, t)$ is sufficiently different from $\rho_C(X)$, i.e. it is predictable if they are different&#xA;&#xA;&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;    &#xA;    &lt;img src=&#34;../Images/forecast_distributions_palmer_2006.png&#34; alt=&#34;Image&#34; style=&#34;width: 300px; height: auto; margin-right: 40px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;    If the distributions are very different the weather forecast could be used by decision-makers. The way to compute this divergence is not clear and would depend on the specific decision making. Where one is mainly interested about extreme events then measuring the distance between the probabilities after a critical point might be prefered to an overall distance measure. This might for example be the case in figure 1.1.&#xA;    &lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Comparison between trees estimators and the DiaRem score for diabete remission classification</title>
-      <link>https://homerdurand.github.io/home/practicals/tme1_durand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/practicals/tme1_durand/</guid>
-      <description>&lt;p&gt;The goal of the TME is to develop practical skills to use decision trees and random forest for real biological applications.&lt;/p&gt;</description>
+      <title>04 - An introduction to the validation of probabilistic forecasting</title>
+      <link>http://localhost:2022/courses/intro_validation_probabilistic_forecasting/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2022/courses/intro_validation_probabilistic_forecasting/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Study of the HANDY models</title>
-      <link>https://homerdurand.github.io/home/posts/pproject1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/posts/pproject1/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit&lt;/p&gt;</description>
+      <title>Data Challenge - Land Cover Predictive Modeling From Satellite Images</title>
+      <link>http://localhost:2022/projects/landcover/</link>
+      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/projects/landcover/</guid>
+      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;In this data challenge, I tackled semantic segmentation using a dataset of satellite images. With 18,491 training and 5,043 test images, each sized at $256 \times 256$ pixels and featuring four channels (RGB and near-infrared), the goal was to predict pixel-level class distributions using mask images.&lt;/p&gt;&#xA;&lt;p&gt;Addressing class distribution imbalance (see Fig [\ref{fig:classe_distrib}]), a vital factor in cost function selection, was a key consideration.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Model Exploration:&lt;/strong&gt; Convolutional Neural Networks (CNNs) emerged as prime candidates for their prowess in computer vision, especially semantic segmentation. Starting with a basic convolutional network, I shifted to pre-trained models as backbones. MobileNetV2, pre-trained on ImageNet, struck a balance between performance and training time.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Language model for music generation</title>
-      <link>https://homerdurand.github.io/home/posts/pproject3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/posts/pproject3/</guid>
-      <description>&lt;p&gt;The objective of this project is to determine a set of
-statistical methods for generating musical sequences. Because of the proximity of language and music, the majority of the methods used are borrowed from Natural Language Processing.&lt;/p&gt;</description>
+      <title>High-Dimensional Regression - Study of the Debiased Lasso Estimator</title>
+      <link>http://localhost:2022/projects/debiased_lasso/</link>
+      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/projects/debiased_lasso/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Study of the World3 model</title>
-      <link>https://homerdurand.github.io/home/posts/pproject2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/posts/pproject2/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo&lt;/p&gt;</description>
+      <title>Machine Learning for the detection of Deficient MMR Crypts to aid in the diagnosis of Lynch Disease</title>
+      <link>http://localhost:2022/projects/lynch/</link>
+      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/projects/lynch/</guid>
+      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Lynch Syndrome is associated with a significantly elevated risk of developing colorectal cancer (CRC). However, this risk can be mitigated through early detection and intervention. A pivotal diagnostic method involves identifying lesions in enterocytes using immunohistochemistry on colon tissue samples. A deficient Mismatch Repair (MMR) crypt, termed Adenomatous Crypt Foci (ACF), indicates Lynch Syndrome.&lt;/p&gt;&#xA;&lt;p&gt;Distinguishing healthy and deficient crypts involves assessing their visual characteristics under a microscope, with healthy crypts appearing brown and ACF crypts blue. Other distinguishing criteria are explored in this project. Yet, the rarity of ACF crypts coupled with the manual microscopic examination by specialists - around 15 minutes per slide - hinders efficient diagnosis, with a single patient&amp;rsquo;s results taking around 2.5 hours due to multiple slides.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>About</title>
-      <link>https://homerdurand.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/about/</guid>
-      <description>Recently graduated in applied mathematics and computer science at Polytech Sorbonne, I am currently specializing in statistics at Sorbonne University in order to orient myself towards an academic career. I am currently looking for a research internship (April - October) in the field of causal inference or inverse problem solving which would allow me to pursue an academic thesis.</description>
+      <title>Nonparametric Density and Survival Function Estimation - Multiplicative Censoring Model</title>
+      <link>http://localhost:2022/projects/nonparametric_density_estimation/</link>
+      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/projects/nonparametric_density_estimation/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title></title>
-      <link>https://homerdurand.github.io/home/subheader/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/subheader/</guid>
-      <description>Recently graduated in Applied Mathematics and Computer Science at Polytech Sorbonne, I am now specialising in Statistics at Sorbonne University. I am also looking for a research internship in the field of causal inference or inverse problem solving that could lead me to an academic thesis. See more about me.</description>
+      <title>Robust Machine Learning - Study of the Median of Mean estimator</title>
+      <link>http://localhost:2022/projects/mom/</link>
+      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/projects/mom/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Causal Inference</title>
-      <link>https://homerdurand.github.io/home/services/service2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/services/service2/</guid>
-      <description>&lt;p&gt;Reading &lt;em&gt;The Book of Why: The New Science of Cause and Effect&lt;/em&gt; (&lt;a href=&#34;http://bayes.cs.ucla.edu/WHY/&#34;&gt;J.Pearl, 2018&lt;/a&gt;) recently introduced me to an absolutely fascinating field of research. At the junction of statistics and theoretical computer science, it interests me both in the questions it raises in our relationship to science and in the various applications it allows. So I am currently supplementing my knowledge on this subject by reading the books &lt;em&gt;Causality&lt;/em&gt; (&lt;a href=&#34;http://bayes.cs.ucla.edu/BOOK-2K/&#34;&gt;J.Pearl, 2009&lt;/a&gt;) and &lt;em&gt;Element of Causal Inference&lt;/em&gt; (&lt;a href=&#34;https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf&#34;&gt;Pearl &amp;amp; al., 2017&lt;/a&gt;). As part of my PhD, I am actually particularly developping &lt;em&gt;Causal Representation Learning&lt;/em&gt; methods for spatio-temporal data.&lt;/p&gt;</description>
+      <title>02 - An introduction to uncertainty quantification of physical simulation</title>
+      <link>http://localhost:2022/courses/intro_bayesian_uq_of_computer_experiments/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/courses/intro_bayesian_uq_of_computer_experiments/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Earth System Sciences</title>
-      <link>https://homerdurand.github.io/home/services/service3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/services/service3/</guid>
-      <description>&lt;p&gt;I was introduced to climate science and the study of the Earth system as a whole in a course given by &lt;a href=&#34;https://www.ipsl.fr/l-ipsl/connaitre-lipsl/herve-le-treut/&#34;&gt;Hervé Le Treut&lt;/a&gt; during my preparatory classes. Since then, I have been interested in scientific issues related to earth system modelling, which is why I did my final year internship at the &lt;a href=&#34;https://www.locean-ipsl.upmc.fr/index.php?lang=fr&#34;&gt;Locéan&lt;/a&gt; laboratory on the issues of tuning coupled ocean-atmosphere models using machine learning and Bayesian optimisation methods (&lt;em&gt;History Matching&lt;/em&gt;). You may read my &lt;a href=&#34;https://homerdurand.github.io/home/recentworks/reports/LOCEAN_report.pdf&#34;&gt;report&lt;/a&gt; for more information about the work I did there.I am currently pursuing this path by doing my PhD at the IPL where I am developing Causal Representation Learning methods for the Earth Sciences.&lt;/p&gt;</description>
+      <title>05 - An introduction to detection and attribution of climate change</title>
+      <link>http://localhost:2022/courses/intro_detection_and_attribution/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/courses/intro_detection_and_attribution/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Kernel Methods</title>
-      <link>https://homerdurand.github.io/home/services/service1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/services/service1/</guid>
-      <description>&lt;p&gt;In the course of my career I have developed a great interest in Kernel methods, whether for their mathematical elegance, the diversity of methods they allow to develop or the variety of applications in which they are a precious tool. I am now working on the development of Causal Representation Learning methods relying mainly on notions of independence in &lt;em&gt;Reproducing Kernel Hilbert Spaces&lt;/em&gt; (as it as been proposed in &lt;a href=&#34;https://www.jmlr.org/papers/volume5/fukumizu04a/fukumizu04a.pdf&#34;&gt;Fukumizu &amp;amp; al., 2004&lt;/a&gt; or &lt;a href=&#34;https://link.springer.com/article/10.1007/s10618-022-00832-5&#34;&gt;Cheng &amp;amp; al., 2022&lt;/a&gt;).&lt;/p&gt;</description>
+      <title>06 - An introduction to extreme events attribution</title>
+      <link>http://localhost:2022/courses/intro_extreme_events_attribution/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/courses/intro_extreme_events_attribution/</guid>
+      <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Nonparametric inference</title>
-      <link>https://homerdurand.github.io/home/services/service4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://homerdurand.github.io/home/services/service4/</guid>
-      <description>&lt;p&gt;Having discovered non-parametric inference during a &lt;a href=&#34;https://homerdurand.github.io/home/recentworks/rw_6/&#34;&gt;statistical learning project&lt;/a&gt;, I was able to develop my knowledge of this field of research in statistics and data science during an introductory course on non-parametric methods supervised by &lt;a href=&#34;https://sites.google.com/site/charlottedionblanc/&#34;&gt;Charlotte Dion-Blanc&lt;/a&gt;  and &lt;a href=&#34;https://www.lpsm.paris/pageperso/castillo/&#34;&gt;Ismael Castillo&lt;/a&gt;), for which I carried out a &lt;a href=&#34;https://homerdurand.github.io/home/recentworks/rw_2/&#34;&gt;project&lt;/a&gt; on the estimation of density and survival function by kernel methods within the framework of the multiplicative censoring model.&lt;/p&gt;</description>
+      <title>A Short History of Climate Change Science</title>
+      <link>http://localhost:2022/blogs/history_climate_change/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/blogs/history_climate_change/</guid>
+      <description>&lt;p&gt;This blog post will be available soon.&lt;/p&gt;&#xA;&lt;!-- Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius.&#xA;Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.&#xA;&#xA;## Early times&#xA;&#xA;* History of science discovery of climate change&#xA;  * Alexander von Humboldt&#xA;&#xA;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam. Weniam, quis nostrum.&#xA;&#xA;&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;    &#xA;    Alexander von Humboldt (1769 - 1859)&#xA;    &lt;img src=&#34;../Alexander_cool.png&#34; alt=&#34;Image&#34; style=&#34;width: 200px; height: auto; margin-right: 40px;&#34;&gt;&#xA;    &lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Detection adn Attribution of Climate Change: A step back</title>
+      <link>http://localhost:2022/blogs/danda_step_back/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/blogs/danda_step_back/</guid>
+      <description>&lt;p&gt;This blog post will be available soon.&lt;/p&gt;&#xA;&lt;!-- &#xA;&#xA;Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius.&#xA;&#xA;## Introduction&#xA;&#xA;* Short intro to history to climate change science&#xA;&#xA;Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.&#xA;&#xA;## Detection and attibution of trends (1980 - 2003)&#xA;&#xA;### Methodologies&#xA;* Fingerprint&#xA;* Optimal Fingerprint&#xA;    * OF as linear regression&#xA;    * Bayesian OF&#xA;    * EIV OF&#xA;    * GEV OF&#xA;&#xA;## Extreme event attribution (2003 - 2018)&#xA;&#xA;### Methodologies&#xA;* Probabilistic&#xA;* Storyline&#xA;* Statistical&#xA;* Dynamical Adjustment&#xA;&#xA;### A causal perspective&#xA;&#xA;## Operationalisation of extreme events attribution (2018 - nowaday)&#xA;&#xA;### Challenges&#xA;&#xA;### Teams&#xA;* WWA&#xA;* IPSL --&gt;</description>
+    </item>
+    <item>
+      <title>History Matching for climate model tuning - experiments on the Lorenz96 toy model</title>
+      <link>http://localhost:2022/projects/history_matching/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:2022/projects/history_matching/</guid>
+      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;During my recent end-of-study internship at the LOCEAN-IPSL laboratory, I delved into the intriguing realm of coupled ocean-atmosphere models calibration. This report unveils the outcomes of this exploration, along with the novel research directions that emerged.&lt;/p&gt;&#xA;&lt;p&gt;The central inquiry of this project revolves around the applicability of the History Matching technique, also known as Iterative Refocussing, in fine-tuning coupled ocean-atmosphere models. Using a simplified model, the Lorenz-96, which can be seen as an approximation of an Atmosphere Ocean General Circulation Model, I demonstrated the potency of the History Matching method in effectively constraining the model&amp;rsquo;s parameter search space. Notably, this breakthrough was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments. In AMIP-style setups, a pared-down atmosphere model reacts to ocean observations, while in OMIP-style experiments, a simplified ocean model responds to atmospheric observations.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
