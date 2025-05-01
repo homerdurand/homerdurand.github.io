@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on Homer Durand</title>
-    <link>http://localhost:2022/tags/deep-learning/</link>
+    <link>https://hugo-profile.netlify.app/tags/deep-learning/</link>
     <description>Recent content in Deep Learning on Homer Durand</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Aug 2023 23:29:21 +0530</lastBuildDate>
-    <atom:link href="http://localhost:2022/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hugo-profile.netlify.app/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Challenge - Land Cover Predictive Modeling From Satellite Images</title>
-      <link>http://localhost:2022/projects/landcover/</link>
+      <link>https://hugo-profile.netlify.app/projects/landcover/</link>
       <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:2022/projects/landcover/</guid>
+      <guid>https://hugo-profile.netlify.app/projects/landcover/</guid>
       <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;In this data challenge, I tackled semantic segmentation using a dataset of satellite images. With 18,491 training and 5,043 test images, each sized at $256 \times 256$ pixels and featuring four channels (RGB and near-infrared), the goal was to predict pixel-level class distributions using mask images.&lt;/p&gt;&#xA;&lt;p&gt;Addressing class distribution imbalance (see Fig [\ref{fig:classe_distrib}]), a vital factor in cost function selection, was a key consideration.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Model Exploration:&lt;/strong&gt; Convolutional Neural Networks (CNNs) emerged as prime candidates for their prowess in computer vision, especially semantic segmentation. Starting with a basic convolutional network, I shifted to pre-trained models as backbones. MobileNetV2, pre-trained on ImageNet, struck a balance between performance and training time.&lt;/p&gt;</description>
     </item>
   </channel>

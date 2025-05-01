@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Detection &amp; Attribution on Homer Durand</title>
-    <link>http://localhost:2022/tags/detection--attribution/</link>
+    <link>https://hugo-profile.netlify.app/tags/detection--attribution/</link>
     <description>Recent content in Detection &amp; Attribution on Homer Durand</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Apr 2023 23:29:21 +0530</lastBuildDate>
-    <atom:link href="http://localhost:2022/tags/detection--attribution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hugo-profile.netlify.app/tags/detection--attribution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Detection adn Attribution of Climate Change: A step back</title>
-      <link>http://localhost:2022/blogs/danda_step_back/</link>
+      <link>https://hugo-profile.netlify.app/blogs/danda_step_back/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:2022/blogs/danda_step_back/</guid>
+      <guid>https://hugo-profile.netlify.app/blogs/danda_step_back/</guid>
       <description>&lt;p&gt;This blog post will be available soon.&lt;/p&gt;&#xA;&lt;!-- &#xA;&#xA;Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius.&#xA;&#xA;## Introduction&#xA;&#xA;* Short intro to history to climate change science&#xA;&#xA;Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.&#xA;&#xA;## Detection and attibution of trends (1980 - 2003)&#xA;&#xA;### Methodologies&#xA;* Fingerprint&#xA;* Optimal Fingerprint&#xA;    * OF as linear regression&#xA;    * Bayesian OF&#xA;    * EIV OF&#xA;    * GEV OF&#xA;&#xA;## Extreme event attribution (2003 - 2018)&#xA;&#xA;### Methodologies&#xA;* Probabilistic&#xA;* Storyline&#xA;* Statistical&#xA;* Dynamical Adjustment&#xA;&#xA;### A causal perspective&#xA;&#xA;## Operationalisation of extreme events attribution (2018 - nowaday)&#xA;&#xA;### Challenges&#xA;&#xA;### Teams&#xA;* WWA&#xA;* IPSL --&gt;</description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multivariate Analysis on Homer Durand</title>
+    <link>https://hugo-profile.netlify.app/tags/multivariate-analysis/</link>
+    <description>Recent content in Multivariate Analysis on Homer Durand</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Aug 2023 23:29:21 +0530</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/multivariate-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Out-of-distribution robustness from a causal perspective - Generalisation of the anchor framework</title>
+      <link>https://hugo-profile.netlify.app/projects/anchor_mva/</link>
+      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/projects/anchor_mva/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Paper is available at &lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
