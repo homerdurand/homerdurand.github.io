@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediacal Image Processing on Homer Durand</title>
+    <link>https://hugo-profile.netlify.app/tags/mediacal-image-processing/</link>
+    <description>Recent content in Mediacal Image Processing on Homer Durand</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/mediacal-image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning for the detection of Deficient MMR Crypts to aid in the diagnosis of Lynch Disease</title>
+      <link>https://hugo-profile.netlify.app/projects/lynch/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/projects/lynch/</guid>
+      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Lynch Syndrome is associated with a significantly elevated risk of developing colorectal cancer (CRC). However, this risk can be mitigated through early detection and intervention. A pivotal diagnostic method involves identifying lesions in enterocytes using immunohistochemistry on colon tissue samples. A deficient Mismatch Repair (MMR) crypt, termed Adenomatous Crypt Foci (ACF), indicates Lynch Syndrome.&lt;/p&gt;&#xA;&lt;p&gt;Distinguishing healthy and deficient crypts involves assessing their visual characteristics under a microscope, with healthy crypts appearing brown and ACF crypts blue. Other distinguishing criteria are explored in this project. Yet, the rarity of ACF crypts coupled with the manual microscopic examination by specialists - around 15 minutes per slide - hinders efficient diagnosis, with a single patient&amp;rsquo;s results taking around 2.5 hours due to multiple slides.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

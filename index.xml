@@ -6,8 +6,22 @@
     <description>Recent content on Homer Durand</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 23:29:21 +0530</lastBuildDate>
     <atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Out-of-distribution Generalisation via Diluted Causality</title>
+      <link>https://hugo-profile.netlify.app/projects/anchor_mva/</link>
+      <pubDate>Tue, 01 Apr 2025 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/projects/anchor_mva/</guid>
+      <description>&lt;p&gt;📄 &lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;Paper accepted at AISTATS 2025&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;The term &lt;em&gt;diluted causality&lt;/em&gt; comes from &lt;a href=&#34;https://arxiv.org/pdf/1812.08233&#34;&gt;Bühlmann (2018)&lt;/a&gt;, inspired by a suggestion from &lt;a href=&#34;https://statistics.wharton.upenn.edu/profile/edgeorge/&#34;&gt;Edward George&lt;/a&gt;. It reflects the notion that while causal mechanisms are expected to be invariant under all possible interventions, a weaker form of invariance—&lt;em&gt;diluted causality&lt;/em&gt;—can be more desirable in practice. This weaker notion restricts the set of interventions to those most relevant for predictive generalisation.&lt;/p&gt;&#xA;&lt;p&gt;This project investigates the interplay between &lt;strong&gt;causality&lt;/strong&gt;, &lt;strong&gt;invariance&lt;/strong&gt;, and &lt;strong&gt;out-of-distribution (OOD) generalisation&lt;/strong&gt;. It builds upon influential work by Peter Bühlmann, Nicolai Meinshausen, Jonas Peters, Dominik Rothenhäusler, Rune Christiansen, and others.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>History Matching for climate model tuning - experiments on the Lorenz96 toy model</title>
+      <link>https://hugo-profile.netlify.app/projects/history_matching/</link>
+      <pubDate>Tue, 03 Sep 2024 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/projects/history_matching/</guid>
+      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;During my end-of-study internship at the LOCEAN-IPSL laboratory, I have been working on coupled ocean-atmosphere models calibration.&lt;/p&gt;&#xA;&lt;p&gt;The ccentral goal of the the project was to better understand if History Matching technique was adapated for calibrating coupled ocean-atmosphere models. Using a simplified model, the two layers Lorenz-96 we demonstrated that History Matching method effectively constrained the model&amp;rsquo;s parameter search space. Notably, this was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>01 - An introduction to objective bayesianism with climate science examples</title>
       <link>https://hugo-profile.netlify.app/courses/intro_objective_bayes/</link>
@@ -30,35 +44,7 @@
       <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Machine Learning for the detection of Deficient MMR Crypts to aid in the diagnosis of Lynch Disease</title>
-      <link>https://hugo-profile.netlify.app/projects/lynch/</link>
-      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/lynch/</guid>
-      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Lynch Syndrome is associated with a significantly elevated risk of developing colorectal cancer (CRC). However, this risk can be mitigated through early detection and intervention. A pivotal diagnostic method involves identifying lesions in enterocytes using immunohistochemistry on colon tissue samples. A deficient Mismatch Repair (MMR) crypt, termed Adenomatous Crypt Foci (ACF), indicates Lynch Syndrome.&lt;/p&gt;&#xA;&lt;p&gt;Distinguishing healthy and deficient crypts involves assessing their visual characteristics under a microscope, with healthy crypts appearing brown and ACF crypts blue. Other distinguishing criteria are explored in this project. Yet, the rarity of ACF crypts coupled with the manual microscopic examination by specialists - around 15 minutes per slide - hinders efficient diagnosis, with a single patient&amp;rsquo;s results taking around 2.5 hours due to multiple slides.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nonparametric Density and Survival Function Estimation - Multiplicative Censoring Model</title>
-      <link>https://hugo-profile.netlify.app/projects/nonparametric_density_estimation/</link>
-      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/nonparametric_density_estimation/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Out-of-distribution generalisation via diluted causality</title>
-      <link>https://hugo-profile.netlify.app/projects/anchor_mva/</link>
-      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/anchor_mva/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;Paper&lt;/a&gt; recently accepted to AISTATS 2025.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;The term &lt;em&gt;diluted causality&lt;/em&gt; is taken from &lt;a href=&#34;https://arxiv.org/pdf/1812.08233&#34;&gt;Bühlmann (2018)&lt;/a&gt; and was suggested by Ed George. It aims to capture the idea that while causal mechanisms are invariant to any kind of perturbation or intervention, a weaker form of invariance—&lt;em&gt;diluted causality&lt;/em&gt;—might often be preferred by restricting the set of potential interventions, especially when the objective is predictive generalization.&lt;/p&gt;&#xA;&lt;p&gt;This project aims to better understand the relationship between causality, invariance, and out-of-distribution generalization. It builds on the great work of Peter Bühlmann, Nicolai Meinshausen, Jonas Peters, Dominik Rothenhäusler, Rune Christiansen, and others. I especially recommend reading the following papers, which have been foundational in clarifying the connections between causality, invariance, and robustness:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Robust Machine Learning - Study of the Median of Mean estimator</title>
-      <link>https://hugo-profile.netlify.app/projects/mom/</link>
-      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/mom/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>01 - From Causal Inference to Out-of-Distribution Generalization Simulation</title>
+      <title>01 - From causal inference to out-of-distribution generalization simulation</title>
       <link>https://hugo-profile.netlify.app/courses/anchor_mva_robustness/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
       <guid>https://hugo-profile.netlify.app/courses/anchor_mva_robustness/</guid>
@@ -72,7 +58,7 @@
       <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>02 - Anchor Regression as a Diluted Form of Causality Generalisation Simulation</title>
+      <title>02 - Anchor Regression as a diluted form of causality</title>
       <link>https://hugo-profile.netlify.app/courses/anchor_regression/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
       <guid>https://hugo-profile.netlify.app/courses/anchor_regression/</guid>
@@ -90,7 +76,7 @@
       <link>https://hugo-profile.netlify.app/courses/anchor_mva/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
       <guid>https://hugo-profile.netlify.app/courses/anchor_mva/</guid>
-      <description>&lt;p&gt;We summarise the work of &lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;Durand et al. (2025)&lt;/a&gt;. For a more comprehensive overview, we recommend reading the original paper.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;We continue working within the worst-case risk framework, but now consider a general loss function $\mathcal{L}(X, Y; \theta)$, whose form will be clarified later. The goal becomes solving:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\arg\min_{\theta} \sup_{Q \in \mathbb{Q}} \mathbb{E}[\mathcal{L}(X, Y; \theta)].&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;Assume the observed variables $(X, Y)$ follow the linear SCM from &lt;a href=&#34;https://academic.oup.com/jrsssb/article/83/2/215/7056043&#34;&gt;Rothenhäusler et al. (2021)&lt;/a&gt;:&lt;/p&gt;</description>
+      <description>&lt;p&gt;We here summarise the work of &lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;Durand et al. (2025)&lt;/a&gt;. We recommend reading the original paper for a more complete overview of the ideas sketched here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;We continue working within the worst-case risk framework, but now consider a general loss function $\mathcal{L}(X, Y; \theta)$, whose form will be clarified later. The goal becomes solving:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\arg\min_{\theta} \sup_{Q \in \mathbb{Q}} \mathbb{E}[\mathcal{L}(X, Y; \theta)].&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;Assume the observed variables $(X, Y)$ follow the linear SCM from &lt;a href=&#34;https://academic.oup.com/jrsssb/article/83/2/215/7056043&#34;&gt;Rothenhäusler et al. (2021)&lt;/a&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>05 - An introduction to detection and attribution of climate change</title>
@@ -107,25 +93,11 @@
       <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A Short History of Climate Change Science</title>
-      <link>https://hugo-profile.netlify.app/blogs/history_climate_change/</link>
-      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/blogs/history_climate_change/</guid>
-      <description>&lt;p&gt;This blog post will be available soon.&lt;/p&gt;&#xA;&lt;!-- Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius.&#xA;Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.&#xA;&#xA;## Early times&#xA;&#xA;* History of science discovery of climate change&#xA;  * Alexander von Humboldt&#xA;&#xA;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam. Weniam, quis nostrum.&#xA;&#xA;&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;    &#xA;    Alexander von Humboldt (1769 - 1859)&#xA;    &lt;img src=&#34;../Alexander_cool.png&#34; alt=&#34;Image&#34; style=&#34;width: 200px; height: auto; margin-right: 40px;&#34;&gt;&#xA;    &lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Detection adn Attribution of Climate Change: A step back</title>
-      <link>https://hugo-profile.netlify.app/blogs/danda_step_back/</link>
-      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/blogs/danda_step_back/</guid>
-      <description>&lt;p&gt;This blog post will be available soon.&lt;/p&gt;&#xA;&lt;!-- &#xA;&#xA;Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius.&#xA;&#xA;## Introduction&#xA;&#xA;* Short intro to history to climate change science&#xA;&#xA;Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.&#xA;&#xA;## Detection and attibution of trends (1980 - 2003)&#xA;&#xA;### Methodologies&#xA;* Fingerprint&#xA;* Optimal Fingerprint&#xA;    * OF as linear regression&#xA;    * Bayesian OF&#xA;    * EIV OF&#xA;    * GEV OF&#xA;&#xA;## Extreme event attribution (2003 - 2018)&#xA;&#xA;### Methodologies&#xA;* Probabilistic&#xA;* Storyline&#xA;* Statistical&#xA;* Dynamical Adjustment&#xA;&#xA;### A causal perspective&#xA;&#xA;## Operationalisation of extreme events attribution (2018 - nowaday)&#xA;&#xA;### Challenges&#xA;&#xA;### Teams&#xA;* WWA&#xA;* IPSL --&gt;</description>
-    </item>
-    <item>
-      <title>History Matching for climate model tuning - experiments on the Lorenz96 toy model</title>
-      <link>https://hugo-profile.netlify.app/projects/history_matching/</link>
-      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/history_matching/</guid>
-      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;During my recent end-of-study internship at the LOCEAN-IPSL laboratory, I delved into the intriguing realm of coupled ocean-atmosphere models calibration. This report unveils the outcomes of this exploration, along with the novel research directions that emerged.&lt;/p&gt;&#xA;&lt;p&gt;The central inquiry of this project revolves around the applicability of the History Matching technique, also known as Iterative Refocussing, in fine-tuning coupled ocean-atmosphere models. Using a simplified model, the Lorenz-96, which can be seen as an approximation of an Atmosphere Ocean General Circulation Model, I demonstrated the potency of the History Matching method in effectively constraining the model&amp;rsquo;s parameter search space. Notably, this breakthrough was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments. In AMIP-style setups, a pared-down atmosphere model reacts to ocean observations, while in OMIP-style experiments, a simplified ocean model responds to atmospheric observations.&lt;/p&gt;</description>
+      <title>Machine Learning for the detection of Deficient MMR Crypts to aid in the diagnosis of Lynch Disease</title>
+      <link>https://hugo-profile.netlify.app/projects/lynch/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/projects/lynch/</guid>
+      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Lynch Syndrome is associated with a significantly elevated risk of developing colorectal cancer (CRC). However, this risk can be mitigated through early detection and intervention. A pivotal diagnostic method involves identifying lesions in enterocytes using immunohistochemistry on colon tissue samples. A deficient Mismatch Repair (MMR) crypt, termed Adenomatous Crypt Foci (ACF), indicates Lynch Syndrome.&lt;/p&gt;&#xA;&lt;p&gt;Distinguishing healthy and deficient crypts involves assessing their visual characteristics under a microscope, with healthy crypts appearing brown and ACF crypts blue. Other distinguishing criteria are explored in this project. Yet, the rarity of ACF crypts coupled with the manual microscopic examination by specialists - around 15 minutes per slide - hinders efficient diagnosis, with a single patient&amp;rsquo;s results taking around 2.5 hours due to multiple slides.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

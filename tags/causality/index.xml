@@ -6,14 +6,14 @@
     <description>Recent content in Causality on Homer Durand</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Aug 2023 23:29:21 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 23:29:21 +0530</lastBuildDate>
     <atom:link href="https://hugo-profile.netlify.app/tags/causality/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Out-of-distribution generalisation via diluted causality</title>
+      <title>Out-of-distribution Generalisation via Diluted Causality</title>
       <link>https://hugo-profile.netlify.app/projects/anchor_mva/</link>
-      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
+      <pubDate>Tue, 01 Apr 2025 23:29:21 +0530</pubDate>
       <guid>https://hugo-profile.netlify.app/projects/anchor_mva/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;Paper&lt;/a&gt; recently accepted to AISTATS 2025.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;The term &lt;em&gt;diluted causality&lt;/em&gt; is taken from &lt;a href=&#34;https://arxiv.org/pdf/1812.08233&#34;&gt;Bühlmann (2018)&lt;/a&gt; and was suggested by Ed George. It aims to capture the idea that while causal mechanisms are invariant to any kind of perturbation or intervention, a weaker form of invariance—&lt;em&gt;diluted causality&lt;/em&gt;—might often be preferred by restricting the set of potential interventions, especially when the objective is predictive generalization.&lt;/p&gt;&#xA;&lt;p&gt;This project aims to better understand the relationship between causality, invariance, and out-of-distribution generalization. It builds on the great work of Peter Bühlmann, Nicolai Meinshausen, Jonas Peters, Dominik Rothenhäusler, Rune Christiansen, and others. I especially recommend reading the following papers, which have been foundational in clarifying the connections between causality, invariance, and robustness:&lt;/p&gt;</description>
+      <description>&lt;p&gt;📄 &lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;Paper accepted at AISTATS 2025&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;The term &lt;em&gt;diluted causality&lt;/em&gt; comes from &lt;a href=&#34;https://arxiv.org/pdf/1812.08233&#34;&gt;Bühlmann (2018)&lt;/a&gt;, inspired by a suggestion from &lt;a href=&#34;https://statistics.wharton.upenn.edu/profile/edgeorge/&#34;&gt;Edward George&lt;/a&gt;. It reflects the notion that while causal mechanisms are expected to be invariant under all possible interventions, a weaker form of invariance—&lt;em&gt;diluted causality&lt;/em&gt;—can be more desirable in practice. This weaker notion restricts the set of interventions to those most relevant for predictive generalisation.&lt;/p&gt;&#xA;&lt;p&gt;This project investigates the interplay between &lt;strong&gt;causality&lt;/strong&gt;, &lt;strong&gt;invariance&lt;/strong&gt;, and &lt;strong&gt;out-of-distribution (OOD) generalisation&lt;/strong&gt;. It builds upon influential work by Peter Bühlmann, Nicolai Meinshausen, Jonas Peters, Dominik Rothenhäusler, Rune Christiansen, and others.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

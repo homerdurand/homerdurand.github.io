@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian Learning on Homer Durand</title>
+    <link>https://hugo-profile.netlify.app/tags/bayesian-learning/</link>
+    <description>Recent content in Bayesian Learning on Homer Durand</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Sep 2024 23:29:21 +0530</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/bayesian-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History Matching for climate model tuning - experiments on the Lorenz96 toy model</title>
+      <link>https://hugo-profile.netlify.app/projects/history_matching/</link>
+      <pubDate>Tue, 03 Sep 2024 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/projects/history_matching/</guid>
+      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;During my end-of-study internship at the LOCEAN-IPSL laboratory, I have been working on coupled ocean-atmosphere models calibration.&lt;/p&gt;&#xA;&lt;p&gt;The ccentral goal of the the project was to better understand if History Matching technique was adapated for calibrating coupled ocean-atmosphere models. Using a simplified model, the two layers Lorenz-96 we demonstrated that History Matching method effectively constrained the model&amp;rsquo;s parameter search space. Notably, this was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

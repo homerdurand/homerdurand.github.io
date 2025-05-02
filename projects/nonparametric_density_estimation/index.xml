@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nonparametric Density and Survival Function Estimation - Multiplicative Censoring Model on Homer Durand</title>
-    <link>https://hugo-profile.netlify.app/projects/nonparametric_density_estimation/</link>
+    <link>http://localhost:2022/projects/nonparametric_density_estimation/</link>
     <description>Recent content in Nonparametric Density and Survival Function Estimation - Multiplicative Censoring Model on Homer Durand</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/projects/nonparametric_density_estimation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:2022/projects/nonparametric_density_estimation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

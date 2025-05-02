@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hugo-profile.netlify.app/tags/causality/</loc>
+    <lastmod>2025-04-01T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/</loc>
+    <lastmod>2025-04-01T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/multivariate-analysis/</loc>
+    <lastmod>2025-04-01T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/projects/anchor_mva/</loc>
+    <lastmod>2025-04-01T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/projects/</loc>
+    <lastmod>2025-04-01T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/robustness/</loc>
+    <lastmod>2025-04-01T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/</loc>
+    <lastmod>2025-04-01T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/bayesian-learning/</loc>
+    <lastmod>2024-09-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/calibration/</loc>
+    <lastmod>2024-09-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/climate-models/</loc>
+    <lastmod>2024-09-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/climate-science/</loc>
+    <lastmod>2024-09-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/history-matching/</loc>
+    <lastmod>2024-09-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/projects/history_matching/</loc>
+    <lastmod>2024-09-03T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>https://hugo-profile.netlify.app/courses/intro_objective_bayes/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -13,45 +52,6 @@
   </url><url>
     <loc>https://hugo-profile.netlify.app/courses/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/causality/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/example/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/lynch/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/markdown-syntax/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/multivariate-analysis/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/nonparametric_density_estimation/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/anchor_mva/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/mom/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/robustness/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/sample/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/</loc>
-    <lastmod>2023-08-03T23:29:21+05:30</lastmod>
   </url><url>
     <loc>https://hugo-profile.netlify.app/courses/anchor_mva_robustness/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
@@ -74,35 +74,17 @@
     <loc>https://hugo-profile.netlify.app/courses/intro_extreme_events_attribution/</loc>
     <lastmod>2023-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/blogs/history_climate_change/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+    <loc>https://hugo-profile.netlify.app/tags/deep-learning/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/blogs/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+    <loc>https://hugo-profile.netlify.app/tags/few-shot-learning/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/climate-change/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+    <loc>https://hugo-profile.netlify.app/projects/lynch/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/detection--attribution/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/blogs/danda_step_back/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/extreme-event-attribution/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/history/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/history_matching/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/optimal-fingerprint/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/world-weather-attribution/</loc>
-    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+    <loc>https://hugo-profile.netlify.app/tags/mediacal-image-processing/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
     <loc>https://hugo-profile.netlify.app/categories/</loc>
   </url>

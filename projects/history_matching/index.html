@@ -40,22 +40,24 @@
 <meta property="og:url" content="https://hugo-profile.netlify.app/projects/history_matching/">
   <meta property="og:site_name" content="Homer Durand">
   <meta property="og:title" content="History Matching for climate model tuning - experiments on the Lorenz96 toy model">
-  <meta property="og:description" content="Description During my recent end-of-study internship at the LOCEAN-IPSL laboratory, I delved into the intriguing realm of coupled ocean-atmosphere models calibration. This report unveils the outcomes of this exploration, along with the novel research directions that emerged.
-The central inquiry of this project revolves around the applicability of the History Matching technique, also known as Iterative Refocussing, in fine-tuning coupled ocean-atmosphere models. Using a simplified model, the Lorenz-96, which can be seen as an approximation of an Atmosphere Ocean General Circulation Model, I demonstrated the potency of the History Matching method in effectively constraining the model’s parameter search space. Notably, this breakthrough was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments. In AMIP-style setups, a pared-down atmosphere model reacts to ocean observations, while in OMIP-style experiments, a simplified ocean model responds to atmospheric observations.">
+  <meta property="og:description" content="Description During my end-of-study internship at the LOCEAN-IPSL laboratory, I have been working on coupled ocean-atmosphere models calibration.
+The ccentral goal of the the project was to better understand if History Matching technique was adapated for calibrating coupled ocean-atmosphere models. Using a simplified model, the two layers Lorenz-96 we demonstrated that History Matching method effectively constrained the model’s parameter search space. Notably, this was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="projects">
-    <meta property="article:published_time" content="2023-04-03T23:29:21+05:30">
-    <meta property="article:modified_time" content="2023-04-03T23:29:21+05:30">
-    <meta property="article:tag" content="Markdown Syntax">
-    <meta property="article:tag" content="Sample">
-    <meta property="article:tag" content="Example">
+    <meta property="article:published_time" content="2024-09-03T23:29:21+05:30">
+    <meta property="article:modified_time" content="2024-09-03T23:29:21+05:30">
+    <meta property="article:tag" content="Climate Science">
+    <meta property="article:tag" content="Calibration">
+    <meta property="article:tag" content="Climate Models">
+    <meta property="article:tag" content="Bayesian Learning">
+    <meta property="article:tag" content="History Matching">
 
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="History Matching for climate model tuning - experiments on the Lorenz96 toy model">
-  <meta name="twitter:description" content="Description During my recent end-of-study internship at the LOCEAN-IPSL laboratory, I delved into the intriguing realm of coupled ocean-atmosphere models calibration. This report unveils the outcomes of this exploration, along with the novel research directions that emerged.
-The central inquiry of this project revolves around the applicability of the History Matching technique, also known as Iterative Refocussing, in fine-tuning coupled ocean-atmosphere models. Using a simplified model, the Lorenz-96, which can be seen as an approximation of an Atmosphere Ocean General Circulation Model, I demonstrated the potency of the History Matching method in effectively constraining the model’s parameter search space. Notably, this breakthrough was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments. In AMIP-style setups, a pared-down atmosphere model reacts to ocean observations, while in OMIP-style experiments, a simplified ocean model responds to atmospheric observations.">
+  <meta name="twitter:description" content="Description During my end-of-study internship at the LOCEAN-IPSL laboratory, I have been working on coupled ocean-atmosphere models calibration.
+The ccentral goal of the the project was to better understand if History Matching technique was adapated for calibrating coupled ocean-atmosphere models. Using a simplified model, the two layers Lorenz-96 we demonstrated that History Matching method effectively constrained the model’s parameter search space. Notably, this was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments.">
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -301,7 +303,7 @@ History Matching for climate model tuning - experiments on the Lorenz96 toy mode
             <div class="text-center">
               Homer 
               <small>|</small>
-              Apr 3, 2023
+              Sep 3, 2024
 
               
               <span id="readingTime">
@@ -318,10 +320,10 @@ History Matching for climate model tuning - experiments on the Lorenz96 toy mode
           <article class="page-content  p-2">
           <base target="_blank">
 <h2 id="description">Description</h2>
-<p>During my recent end-of-study internship at the LOCEAN-IPSL laboratory, I delved into the intriguing realm of coupled ocean-atmosphere models calibration. This report unveils the outcomes of this exploration, along with the novel research directions that emerged.</p>
-<p>The central inquiry of this project revolves around the applicability of the History Matching technique, also known as Iterative Refocussing, in fine-tuning coupled ocean-atmosphere models. Using a simplified model, the Lorenz-96, which can be seen as an approximation of an Atmosphere Ocean General Circulation Model, I demonstrated the potency of the History Matching method in effectively constraining the model&rsquo;s parameter search space. Notably, this breakthrough was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments. In AMIP-style setups, a pared-down atmosphere model reacts to ocean observations, while in OMIP-style experiments, a simplified ocean model responds to atmospheric observations.</p>
-<p>The report also introduces valuable insights derived from the History Matching method. It proposes a strategy to streamline the process by employing linear (Empirical Orthogonal Functions) or non-linear (Autoencoders) dimensionality reduction techniques, leading to a significant reduction in the number of metrics employed. Furthermore, the project sheds light on the potential replacement of Gaussian Process Regressors in History Matching with promising alternatives: Random Forest and Bayesian Neural Networks. Though these propositions demand further validation, they hold exciting prospects for enhancing model emulation.</p>
-<p>Amidst these advancements, the report underscores the paramount importance of accessible tools for accurately and straightforwardly gauging prediction uncertainties across various models. The research journey embarked upon during this internship not only contributes to refining coupled ocean-atmosphere models but also opens doors to novel techniques and insights that can reverberate across diverse scientific domains.</p>
+<p>During my end-of-study internship at the LOCEAN-IPSL laboratory, I have been working on coupled ocean-atmosphere models calibration.</p>
+<p>The ccentral goal of the the project was to better understand if History Matching technique was adapated for calibrating coupled ocean-atmosphere models. Using a simplified model, the two layers Lorenz-96 we demonstrated that History Matching method effectively constrained the model&rsquo;s parameter search space. Notably, this was validated across scenarios resembling AMIP (Atmospheric Model Intercomparison Project) and OMIP (Ocean Model Intercomparison Project) experiments.</p>
+<p>We also experimented the use of machine learning alternative to gaussian processes as emulators. We carried a comparative study of Ramdom Forest and Bayesian Neural Networks with the commonly used gaussian process. While these methods do not seem to show strong performance improvement in the convergence speed to the real parameters, they seem to perform well and some further investigation might be promising.</p>
+<p>We finally compared two approaches to reduce the metric space: Principal Component Analysis (as this is usually used) and autoencoders. We show that by retaining more information about the metrics in a smaller subspace, the former improve the algorithm convergence speed and accuracy.</p>
 <p><a href="/project_reports/Rapport_Stage.pdf"><em><strong>Read full report</strong></em></a></p>
 
           </article>
@@ -349,11 +351,15 @@ History Matching for climate model tuning - experiments on the Lorenz96 toy mode
             <h5>Tags</h5>
             <ul class="tags-ul list-unstyled list-inline">
               
-              <li class="list-inline-item"><a href="https://hugo-profile.netlify.app/tags/markdown-syntax" target="_blank">Markdown syntax</a></li>
+              <li class="list-inline-item"><a href="https://hugo-profile.netlify.app/tags/climate-science" target="_blank">Climate science</a></li>
               
-              <li class="list-inline-item"><a href="https://hugo-profile.netlify.app/tags/sample" target="_blank">Sample</a></li>
+              <li class="list-inline-item"><a href="https://hugo-profile.netlify.app/tags/calibration" target="_blank">Calibration</a></li>
               
-              <li class="list-inline-item"><a href="https://hugo-profile.netlify.app/tags/example" target="_blank">example</a></li>
+              <li class="list-inline-item"><a href="https://hugo-profile.netlify.app/tags/climate-models" target="_blank">Climate models</a></li>
+              
+              <li class="list-inline-item"><a href="https://hugo-profile.netlify.app/tags/bayesian-learning" target="_blank">Bayesian learning</a></li>
+              
+              <li class="list-inline-item"><a href="https://hugo-profile.netlify.app/tags/history-matching" target="_blank">History matching</a></li>
               
             </ul>
           </aside>
@@ -430,69 +436,6 @@ History Matching for climate model tuning - experiments on the Lorenz96 toy mode
   </div><footer>
     
  
- 
-<div class="container py-3" id="recent-posts">
-    
-    
-    <div class="h3 text-center text-secondary py-3">
-        Recent Posts
-    </div>
-    <div class="row justify-content-center">
-        
-        <div class="col-lg-4 col-md-6 pt-2">
-            <div class="card h-100">
-                
-                <div class="card-header">
-                    <a href="/blogs/history_climate_change/">
-                        <img src="/images/global_warming.png" class="card-img-top" alt="A Short History of Climate Change Science">
-                    </a>
-                </div>
-                
-                <div class="card-body bg-transparent p-3 shadow-sm">
-                    <a href="/blogs/history_climate_change/" class="primary-font card-title">
-                        <h5 class="card-title bg-transparent" title="A Short History of Climate Change Science">A Short History of …</h5>
-                    </a>
-                    <div class="card-text secondary-font">
-                        <p><p>This blog post will be available soon.</p>
-<!-- Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia …</p>
-                    </div>
-                </div>
-                <div class="mt-auto card-footer">
-                    <span class="float-start">Apr 3, 2023</span>
-                    <a href="/blogs/history_climate_change/" class="float-end btn btn-outline-info btn-sm">Read</a>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-lg-4 col-md-6 pt-2">
-            <div class="card h-100">
-                
-                <div class="card-header">
-                    <a href="/blogs/danda_step_back/">
-                        <img src="/images/D_an_A.png" class="card-img-top" alt="Detection adn Attribution of Climate Change: A step back">
-                    </a>
-                </div>
-                
-                <div class="card-body bg-transparent p-3 shadow-sm">
-                    <a href="/blogs/danda_step_back/" class="primary-font card-title">
-                        <h5 class="card-title bg-transparent" title="Detection adn Attribution of Climate Change: A step back">Detection adn Attribution …</h5>
-                    </a>
-                    <div class="card-text secondary-font">
-                        <p><p>This blog post will be available soon.</p>
-<!-- 
-
-Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum …</p>
-                    </div>
-                </div>
-                <div class="mt-auto card-footer">
-                    <span class="float-start">Apr 3, 2023</span>
-                    <a href="/blogs/danda_step_back/" class="float-end btn btn-outline-info btn-sm">Read</a>
-                </div>
-            </div>
-        </div>
-        
-    </div>
-</div>
 
 <div class="text-center pt-2">
     

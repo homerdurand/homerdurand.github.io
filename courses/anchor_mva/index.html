@@ -40,7 +40,7 @@
 <meta property="og:url" content="https://hugo-profile.netlify.app/courses/anchor_mva/">
   <meta property="og:site_name" content="Homer Durand">
   <meta property="og:title" content="03 - Generalizing Anchor Regression to Multivariate Algorithms">
-  <meta property="og:description" content="We summarise the work of Durand et al. (2025). For a more comprehensive overview, we recommend reading the original paper.
+  <meta property="og:description" content="We here summarise the work of Durand et al. (2025). We recommend reading the original paper for a more complete overview of the ideas sketched here.
 Introduction We continue working within the worst-case risk framework, but now consider a general loss function $\mathcal{L}(X, Y; \theta)$, whose form will be clarified later. The goal becomes solving:
 $$ \arg\min_{\theta} \sup_{Q \in \mathbb{Q}} \mathbb{E}[\mathcal{L}(X, Y; \theta)]. $$
 Assume the observed variables $(X, Y)$ follow the linear SCM from Rothenhäusler et al. (2021):">
@@ -53,7 +53,7 @@ Assume the observed variables $(X, Y)$ follow the linear SCM from Rothenhäusler
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="03 - Generalizing Anchor Regression to Multivariate Algorithms">
-  <meta name="twitter:description" content="We summarise the work of Durand et al. (2025). For a more comprehensive overview, we recommend reading the original paper.
+  <meta name="twitter:description" content="We here summarise the work of Durand et al. (2025). We recommend reading the original paper for a more complete overview of the ideas sketched here.
 Introduction We continue working within the worst-case risk framework, but now consider a general loss function $\mathcal{L}(X, Y; \theta)$, whose form will be clarified later. The goal becomes solving:
 $$ \arg\min_{\theta} \sup_{Q \in \mathbb{Q}} \mathbb{E}[\mathcal{L}(X, Y; \theta)]. $$
 Assume the observed variables $(X, Y)$ follow the linear SCM from Rothenhäusler et al. (2021):">
@@ -313,7 +313,7 @@ Assume the observed variables $(X, Y)$ follow the linear SCM from Rothenhäusler
           </div>
           
           <article class="page-content  p-2">
-          <p>We summarise the work of <a href="https://arxiv.org/abs/2403.01865">Durand et al. (2025)</a>. For a more comprehensive overview, we recommend reading the original paper.</p>
+          <p>We here summarise the work of <a href="https://arxiv.org/abs/2403.01865">Durand et al. (2025)</a>. We recommend reading the original paper for a more complete overview of the ideas sketched here.</p>
 <h2 id="introduction">Introduction</h2>
 <p>We continue working within the worst-case risk framework, but now consider a general loss function $\mathcal{L}(X, Y; \theta)$, whose form will be clarified later. The goal becomes solving:</p>
 <p>$$
@@ -361,7 +361,7 @@ $$</p>
 <p>For anchor-compatible losses, we have the following guarantee:</p>
 <p>Let $(X, Y, H)$ follow the SCM above and let $\mathcal{L}(X, Y; \theta)$ be anchor-compatible. Then, for any $\theta$ and $\gamma &gt; 0$:</p>
 <p>$$
-\sup_{P \in \mathbb{Q}^{\text{anchor}}} \mathbb{E}<em>P[\mathcal{L}(X, Y; \theta)] = f</em>\theta(\Sigma_{XY}) + (\gamma - 1) f_\theta(\Sigma_{XY|A}).
+\sup_{P \in \mathbb{Q}^{\text{anchor}}} \mathbb{E}_P[\mathcal{L}(X, Y; \theta)] = f _\theta(\Sigma _{XY}) + (\gamma - 1) f _\theta(\Sigma _{XY|A}).
 $$</p>
 <h2 id="robustness-of-multivariate-analysis-algorithms">Robustness of Multivariate Analysis Algorithms</h2>
 <p>This framework enables robustness for popular multivariate methods such as Multiple Linear Regression (MLR), Orthogonal PLS (OPLS), Reduced Rank Regression (RRR), and Partial Least Squares (PLS). However, some algorithms like Canonical Correlation Analysis (CCA) are not compatible with anchor regularisation due to the lack of theoretical guarantees.</p>
@@ -409,8 +409,9 @@ $$</p>
 </table>
 <h2 id="discussion">Discussion</h2>
 <p>We showed that anchor regularisation applies to a broader class of loss functions beyond least squares. Any loss expressible as a linear map of the joint covariance $\Sigma_{XY}$ can be anchor-regularised via a simple causal term. This extends OOD generalisation to many standard multivariate learning algorithms.</p>
-<p>Next, we explore applications to climate change attribution.</p>
-<p><a href="../anchor_mva_climate">Next chapter: Robust estimation of forced climate response</a></p>
+<!-- Next, we explore applications to climate change attribution.
+
+[Next chapter: Robust estimation of forced climate response](../anchor_mva_climate) -->
 
           </article>
         </div>
@@ -510,69 +511,6 @@ $$</p>
   </div><footer>
     
  
- 
-<div class="container py-3" id="recent-posts">
-    
-    
-    <div class="h3 text-center text-secondary py-3">
-        Recent Posts
-    </div>
-    <div class="row justify-content-center">
-        
-        <div class="col-lg-4 col-md-6 pt-2">
-            <div class="card h-100">
-                
-                <div class="card-header">
-                    <a href="/blogs/history_climate_change/">
-                        <img src="/images/global_warming.png" class="card-img-top" alt="A Short History of Climate Change Science">
-                    </a>
-                </div>
-                
-                <div class="card-body bg-transparent p-3 shadow-sm">
-                    <a href="/blogs/history_climate_change/" class="primary-font card-title">
-                        <h5 class="card-title bg-transparent" title="A Short History of Climate Change Science">A Short History of …</h5>
-                    </a>
-                    <div class="card-text secondary-font">
-                        <p><p>This blog post will be available soon.</p>
-<!-- Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia …</p>
-                    </div>
-                </div>
-                <div class="mt-auto card-footer">
-                    <span class="float-start">Apr 3, 2023</span>
-                    <a href="/blogs/history_climate_change/" class="float-end btn btn-outline-info btn-sm">Read</a>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-lg-4 col-md-6 pt-2">
-            <div class="card h-100">
-                
-                <div class="card-header">
-                    <a href="/blogs/danda_step_back/">
-                        <img src="/images/D_an_A.png" class="card-img-top" alt="Detection adn Attribution of Climate Change: A step back">
-                    </a>
-                </div>
-                
-                <div class="card-body bg-transparent p-3 shadow-sm">
-                    <a href="/blogs/danda_step_back/" class="primary-font card-title">
-                        <h5 class="card-title bg-transparent" title="Detection adn Attribution of Climate Change: A step back">Detection adn Attribution …</h5>
-                    </a>
-                    <div class="card-text secondary-font">
-                        <p><p>This blog post will be available soon.</p>
-<!-- 
-
-Quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum …</p>
-                    </div>
-                </div>
-                <div class="mt-auto card-footer">
-                    <span class="float-start">Apr 3, 2023</span>
-                    <a href="/blogs/danda_step_back/" class="float-end btn btn-outline-info btn-sm">Read</a>
-                </div>
-            </div>
-        </div>
-        
-    </div>
-</div>
 
 <div class="text-center pt-2">
     
