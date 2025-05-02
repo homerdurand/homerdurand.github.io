@@ -9,13 +9,6 @@
     <lastBuildDate>Thu, 03 Aug 2023 23:29:21 +0530</lastBuildDate>
     <atom:link href="https://hugo-profile.netlify.app/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>High-Dimensional Regression - Study of the Debiased Lasso Estimator</title>
-      <link>https://hugo-profile.netlify.app/projects/debiased_lasso/</link>
-      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/debiased_lasso/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Machine Learning for the detection of Deficient MMR Crypts to aid in the diagnosis of Lynch Disease</title>
       <link>https://hugo-profile.netlify.app/projects/lynch/</link>
       <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>

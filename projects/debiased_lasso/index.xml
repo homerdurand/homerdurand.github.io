@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>High-Dimensional Regression - Study of the Debiased Lasso Estimator on Homer Durand</title>
-    <link>https://hugo-profile.netlify.app/projects/debiased_lasso/</link>
+    <link>http://localhost:2022/projects/debiased_lasso/</link>
     <description>Recent content in High-Dimensional Regression - Study of the Debiased Lasso Estimator on Homer Durand</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/projects/debiased_lasso/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:2022/projects/debiased_lasso/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

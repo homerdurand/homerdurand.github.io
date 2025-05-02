@@ -9,20 +9,6 @@
     <lastBuildDate>Thu, 03 Aug 2023 23:29:21 +0530</lastBuildDate>
     <atom:link href="https://hugo-profile.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Challenge - Land Cover Predictive Modeling From Satellite Images</title>
-      <link>https://hugo-profile.netlify.app/projects/landcover/</link>
-      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/landcover/</guid>
-      <description>&lt;base target=&#34;_blank&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;In this data challenge, I tackled semantic segmentation using a dataset of satellite images. With 18,491 training and 5,043 test images, each sized at $256 \times 256$ pixels and featuring four channels (RGB and near-infrared), the goal was to predict pixel-level class distributions using mask images.&lt;/p&gt;&#xA;&lt;p&gt;Addressing class distribution imbalance (see Fig [\ref{fig:classe_distrib}]), a vital factor in cost function selection, was a key consideration.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Model Exploration:&lt;/strong&gt; Convolutional Neural Networks (CNNs) emerged as prime candidates for their prowess in computer vision, especially semantic segmentation. Starting with a basic convolutional network, I shifted to pre-trained models as backbones. MobileNetV2, pre-trained on ImageNet, struck a balance between performance and training time.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>High-Dimensional Regression - Study of the Debiased Lasso Estimator</title>
-      <link>https://hugo-profile.netlify.app/projects/debiased_lasso/</link>
-      <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/debiased_lasso/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Machine Learning for the detection of Deficient MMR Crypts to aid in the diagnosis of Lynch Disease</title>
       <link>https://hugo-profile.netlify.app/projects/lynch/</link>
       <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
@@ -37,11 +23,11 @@
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Out-of-distribution robustness from a causal perspective - Generalisation of the anchor framework</title>
+      <title>Out-of-distribution generalisation via diluted causality</title>
       <link>https://hugo-profile.netlify.app/projects/anchor_mva/</link>
       <pubDate>Thu, 03 Aug 2023 23:29:21 +0530</pubDate>
       <guid>https://hugo-profile.netlify.app/projects/anchor_mva/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Description of the project&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Paper is available at &lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;Paper&lt;/a&gt; recently accepted to AISTATS 2025.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;The term &lt;em&gt;diluted causality&lt;/em&gt; is taken from &lt;a href=&#34;https://arxiv.org/pdf/1812.08233&#34;&gt;Bühlmann (2018)&lt;/a&gt; and was suggested by Ed George. It aims to capture the idea that while causal mechanisms are invariant to any kind of perturbation or intervention, a weaker form of invariance—&lt;em&gt;diluted causality&lt;/em&gt;—might often be preferred by restricting the set of potential interventions, especially when the objective is predictive generalization.&lt;/p&gt;&#xA;&lt;p&gt;This project aims to better understand the relationship between causality, invariance, and out-of-distribution generalization. It builds on the great work of Peter Bühlmann, Nicolai Meinshausen, Jonas Peters, Dominik Rothenhäusler, Rune Christiansen, and others. I especially recommend reading the following papers, which have been foundational in clarifying the connections between causality, invariance, and robustness:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robust Machine Learning - Study of the Median of Mean estimator</title>

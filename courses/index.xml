@@ -30,11 +30,39 @@
       <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>01 - From Causal Inference to Out-of-Distribution Generalization Simulation</title>
+      <link>https://hugo-profile.netlify.app/courses/anchor_mva_robustness/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/courses/anchor_mva_robustness/</guid>
+      <description>&lt;p&gt;We here summarise the work of &lt;a href=&#34;https://ieeexplore.ieee.org/document/8439889&#34;&gt;Meinshausen (2018)&lt;/a&gt;. We recommend reading the original paper for a more complete overview of the ideas sketched here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The most common learning paradigm in statistical learning is arguably Empirical Risk Minimization (ERM), which can be written as:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\arg\min_{\theta} \mathbb{E}[\ell(Y, f_{\theta}(X))]&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;where $X \in \mathbb{R}^d$ is a set of covariates and $Y \in \mathbb{R}$ is a target variable. We aim to find the parameters $\theta$, which parametrize the function $f_\theta: \mathbb{R}^d \rightarrow \mathbb{R}$, by minimizing the expected value of the loss $\ell: \mathbb{R} \times \mathbb{R} \to \mathbb{R}$.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>02 - An introduction to uncertainty quantification of physical simulation</title>
       <link>https://hugo-profile.netlify.app/courses/intro_bayesian_uq_of_computer_experiments/</link>
       <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
       <guid>https://hugo-profile.netlify.app/courses/intro_bayesian_uq_of_computer_experiments/</guid>
       <description>&lt;p&gt;This course notes are in preparation and should be released around mid-May.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 - Anchor Regression as a Diluted Form of Causality Generalisation Simulation</title>
+      <link>https://hugo-profile.netlify.app/courses/anchor_regression/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/courses/anchor_regression/</guid>
+      <description>&lt;p&gt;We here summarise the work of &lt;a href=&#34;https://academic.oup.com/jrsssb/article/83/2/215/7056043&#34;&gt;Rothenhäusler et al. (2021)&lt;/a&gt;. We recommend reading the original paper for a more complete overview of the ideas sketched here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;We are still interested in worst-case risk minimisation as described in the previous chapter. Given $X \in \mathbb{R}^d$ and $Y \in \mathbb{R}$, we aim to minimise&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\arg\min_{\mathbf{b}} \sup_{Q \in \mathbb{Q}} \mathbb{E}[(Y - X\mathbf{b})^2].&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;We use the squared loss and again assume a linear SCM, but now with a slightly more elaborate structure. We assume that a part of the covariates are known to be exogenous. We call these &lt;em&gt;anchor variables&lt;/em&gt;, denoted $A$. Anchor variables aim to generalise the framework of instrumental variables (IV) regression, which assumes the presence of an exogenous variable that affects $Y$ only through $X$ (exclusion restriction). The anchor framework relaxes this exclusion restriction by only assuming exogeneity of $A$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 - Anchor regression generalisation for multivariate algorithms</title>
+      <link>https://hugo-profile.netlify.app/courses/anchor_mva_climate/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/courses/anchor_mva_climate/</guid>
+      <description>&lt;p&gt;This chapter will be available soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 - Generalizing Anchor Regression to Multivariate Algorithms</title>
+      <link>https://hugo-profile.netlify.app/courses/anchor_mva/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/courses/anchor_mva/</guid>
+      <description>&lt;p&gt;We summarise the work of &lt;a href=&#34;https://arxiv.org/abs/2403.01865&#34;&gt;Durand et al. (2025)&lt;/a&gt;. For a more comprehensive overview, we recommend reading the original paper.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;We continue working within the worst-case risk framework, but now consider a general loss function $\mathcal{L}(X, Y; \theta)$, whose form will be clarified later. The goal becomes solving:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\arg\min_{\theta} \sup_{Q \in \mathbb{Q}} \mathbb{E}[\mathcal{L}(X, Y; \theta)].&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;Assume the observed variables $(X, Y)$ follow the linear SCM from &lt;a href=&#34;https://academic.oup.com/jrsssb/article/83/2/215/7056043&#34;&gt;Rothenhäusler et al. (2021)&lt;/a&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>05 - An introduction to detection and attribution of climate change</title>

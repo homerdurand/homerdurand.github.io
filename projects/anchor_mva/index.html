@@ -39,9 +39,9 @@
 
 <meta property="og:url" content="https://hugo-profile.netlify.app/projects/anchor_mva/">
   <meta property="og:site_name" content="Homer Durand">
-  <meta property="og:title" content="Out-of-distribution robustness from a causal perspective - Generalisation of the anchor framework">
-  <meta property="og:description" content="Description Description of the project…
-Paper is available at this link.">
+  <meta property="og:title" content="Out-of-distribution generalisation via diluted causality">
+  <meta property="og:description" content="Paper recently accepted to AISTATS 2025. Description The term diluted causality is taken from Bühlmann (2018) and was suggested by Ed George. It aims to capture the idea that while causal mechanisms are invariant to any kind of perturbation or intervention, a weaker form of invariance—diluted causality—might often be preferred by restricting the set of potential interventions, especially when the objective is predictive generalization.
+This project aims to better understand the relationship between causality, invariance, and out-of-distribution generalization. It builds on the great work of Peter Bühlmann, Nicolai Meinshausen, Jonas Peters, Dominik Rothenhäusler, Rune Christiansen, and others. I especially recommend reading the following papers, which have been foundational in clarifying the connections between causality, invariance, and robustness:">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="projects">
@@ -53,9 +53,9 @@ Paper is available at this link.">
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Out-of-distribution robustness from a causal perspective - Generalisation of the anchor framework">
-  <meta name="twitter:description" content="Description Description of the project…
-Paper is available at this link.">
+  <meta name="twitter:title" content="Out-of-distribution generalisation via diluted causality">
+  <meta name="twitter:description" content="Paper recently accepted to AISTATS 2025. Description The term diluted causality is taken from Bühlmann (2018) and was suggested by Ed George. It aims to capture the idea that while causal mechanisms are invariant to any kind of perturbation or intervention, a weaker form of invariance—diluted causality—might often be preferred by restricting the set of potential interventions, especially when the objective is predictive generalization.
+This project aims to better understand the relationship between causality, invariance, and out-of-distribution generalization. It builds on the great work of Peter Bühlmann, Nicolai Meinshausen, Jonas Peters, Dominik Rothenhäusler, Rune Christiansen, and others. I especially recommend reading the following papers, which have been foundational in clarifying the connections between causality, invariance, and robustness:">
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -126,7 +126,7 @@ Paper is available at this link.">
 <script defer src="/fontawesome-5/all-5.15.4.js"></script>
 
   <title>
-Out-of-distribution robustness from a causal perspective - Generalisation of the anchor framework | Homer Durand
+Out-of-distribution generalisation via diluted causality | Homer Durand
 
   </title>
 </head>
@@ -297,7 +297,7 @@ Out-of-distribution robustness from a causal perspective - Generalisation of the
       <div class="col-sm-12 col-md-12 col-lg-9">
         <div class="pr-lg-4">
           <div class="title mb-5">
-            <h1 class="text-center mb-4">Out-of-distribution robustness from a causal perspective - Generalisation of the anchor framework</h1>
+            <h1 class="text-center mb-4">Out-of-distribution generalisation via diluted causality</h1>
             <div class="text-center">
               Homer 
               <small>|</small>
@@ -312,13 +312,28 @@ Out-of-distribution robustness from a causal perspective - Generalisation of the
           </div>
           
           <div class="featured-image">
-            <img class="img-fluid" src="/images/projects/anchor.png" alt="Out-of-distribution robustness from a causal perspective - Generalisation of the anchor framework">
+            <img class="img-fluid" src="/images/projects/anchor.png" alt="Out-of-distribution generalisation via diluted causality">
           </div>
           
           <article class="page-content  p-2">
-          <h2 id="description">Description</h2>
-<p>Description of the project&hellip;</p>
-<p>Paper is available at <a href="https://arxiv.org/abs/2403.01865">this link</a>.</p>
+          <ul>
+<li><a href="https://arxiv.org/abs/2403.01865">Paper</a> recently accepted to AISTATS 2025.</li>
+</ul>
+<h2 id="description">Description</h2>
+<p>The term <em>diluted causality</em> is taken from <a href="https://arxiv.org/pdf/1812.08233">Bühlmann (2018)</a> and was suggested by Ed George. It aims to capture the idea that while causal mechanisms are invariant to any kind of perturbation or intervention, a weaker form of invariance—<em>diluted causality</em>—might often be preferred by restricting the set of potential interventions, especially when the objective is predictive generalization.</p>
+<p>This project aims to better understand the relationship between causality, invariance, and out-of-distribution generalization. It builds on the great work of Peter Bühlmann, Nicolai Meinshausen, Jonas Peters, Dominik Rothenhäusler, Rune Christiansen, and others. I especially recommend reading the following papers, which have been foundational in clarifying the connections between causality, invariance, and robustness:</p>
+<ul>
+<li><a href="https://academic.oup.com/jrsssb/article/78/5/947/7040653">Peters et al. (2016)</a> – <em>Causal Inference by Using Invariant Prediction: Identification and Confidence Intervals</em></li>
+<li><a href="https://arxiv.org/pdf/1812.08233">Bühlmann (2018)</a> – <em>Invariance, Causality and Robustness</em></li>
+<li><a href="https://ieeexplore.ieee.org/document/8439889">Meinshausen (2018)</a> – <em>Causality from a Distributional Robustness Point of View</em></li>
+<li><a href="https://academic.oup.com/jrsssb/article/83/2/215/7056043">Rothenhäusler et al. (2021)</a> – <em>Anchor Regression: Heterogeneous Data Meet Causality</em></li>
+<li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9476906">Christiansen et al. (2022)</a> – <em>A Causal Framework for Distribution Generalization</em></li>
+<li><a href="https://academic.oup.com/ectj/article/25/2/404/6380481">Jakobsen et al. (2022)</a> – <em>Distributional Robustness of K-Class Estimators and the PULSE</em></li>
+</ul>
+<p>We propose a very short introduction to the subject to help better understand this learning framework and our contribution:</p>
+<ul>
+<li><a href="../../courses/anchor_mva_robustness">Introduction to Out-of-Distribution Generalization from a Causal Perspective</a></li>
+</ul>
 
           </article>
         </div>
@@ -361,17 +376,17 @@ Out-of-distribution robustness from a causal perspective - Generalisation of the
             <div class="social-content">
               <ul class="list-inline">
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://twitter.com/share?text=Out-of-distribution%20robustness%20from%20a%20causal%20perspective%20-%20Generalisation%20of%20the%20anchor%20framework&url=https%3a%2f%2fhugo-profile.netlify.app%2fprojects%2fanchor_mva%2f">
+                  <a target="_blank" href="https://twitter.com/share?text=Out-of-distribution%20generalisation%20via%20diluted%20causality&url=https%3a%2f%2fhugo-profile.netlify.app%2fprojects%2fanchor_mva%2f">
                     <i class="fab fa-twitter"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://api.whatsapp.com/send?text=Out-of-distribution%20robustness%20from%20a%20causal%20perspective%20-%20Generalisation%20of%20the%20anchor%20framework: https%3a%2f%2fhugo-profile.netlify.app%2fprojects%2fanchor_mva%2f">
+                  <a target="_blank" href="https://api.whatsapp.com/send?text=Out-of-distribution%20generalisation%20via%20diluted%20causality: https%3a%2f%2fhugo-profile.netlify.app%2fprojects%2fanchor_mva%2f">
                     <i class="fab fa-whatsapp"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href='mailto:?subject=Out-of-distribution%20robustness%20from%20a%20causal%20perspective%20-%20Generalisation%20of%20the%20anchor%20framework&amp;body=Check%20out%20this%20site https%3a%2f%2fhugo-profile.netlify.app%2fprojects%2fanchor_mva%2f'>
+                  <a target="_blank" href='mailto:?subject=Out-of-distribution%20generalisation%20via%20diluted%20causality&amp;body=Check%20out%20this%20site https%3a%2f%2fhugo-profile.netlify.app%2fprojects%2fanchor_mva%2f'>
                     <i class="fa fa-envelope"></i>
                   </a>
                 </li>
